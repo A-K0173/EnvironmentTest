@@ -1,0 +1,5 @@
+- System Specifications: Windows 10, Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz (GHz Boosted), Nvidia Geforce GTX 1080, 16 GB Ram, 256 GB SSD, 1 TB HDD
+- Software versions installed: Latest Node.JS, VSCode, NPX, React Nativee
+- Setup steps you followed: All of them
+- Any deviations from the lab instructions: Please see .PDF document in submission
+- Time taken for each major step: ~4 hours  
