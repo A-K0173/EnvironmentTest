@@ -8,8 +8,8 @@ This is my first React Native application created for CPAN 213 course.
 - Date: September 2, 2025
 ## Getting Started
 1. Clone this repository
-2. RunRun `npm install``npm install`
-3. RunRun `npx react-native run-android``npx react-native run-android` oror `npx react-native run-ios``npx react-native run-ios`
+2. RunRun `npm install`
+3. RunRun `npx react-native run-android` or `npx react-native run-ios`
 ## Features Implemented
 - Custom welcome screen
 - Personal information display
