@@ -1,3 +1,26 @@
+# My First React Native App - CPAN 213
+## Description
+This is my first React Native application created for CPAN 213 course.
+## Student Information
+- Name: [Your Name]
+- Student ID: [Your ID]
+- Course: CPAN 213 - Cross-Platform Mobile Application Development
+- Date: September 2, 2025
+## Getting Started
+1. Clone this repository
+2. RunRun `npm install``npm install`
+3. RunRun `npx react-native run-android``npx react-native run-android` oror `npx react-native run-ios``npx react-native run-ios`
+## Features Implemented
+- Custom welcome screen
+- Personal information display
+- Course goals section
+- Custom styling with StyleSheet
+## Development Environment
+- Node.js: [v22.14.0]
+- React Native: [20.0.0]
+- Android Studio: [251.26094.121.0]
+- VS Code: [1.104.1]
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
