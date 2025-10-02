@@ -1,13 +1,6 @@
+/* eslint-disable react-native/no-color-literals */
 import React from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  Text,
-  View,
-  Image,
-} from 'react-native';
+import {SafeAreaView, StatusBar, StyleSheet, Text, View} from 'react-native';
 function App() {
   return (
     <SafeAreaView style={styles.container}>

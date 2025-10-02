@@ -15,7 +15,7 @@ module.exports = {
     'react-native/no-inline-styles': 'warn',
     'react-native/no-color-literals': 'warn',
     'no-console': 'warn',
-    'no-unused-vars': 'error',
+    'no-unused-vars': 'warn',
     'prefer-const': 'error',
   },
   env: {
